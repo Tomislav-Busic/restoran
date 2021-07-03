@@ -157,55 +157,55 @@ header #menu-bar{
 
 @keyframes slide{
     0%{
-        background-image: url(./img/svadba1.jpg);
+        background-image: url(./backgroundimg/svadba1.jpg);
     }10%{
-        background-image: url(./img/svadba1.jpg);
-        background-image: url(./img/svadba2.jpg);
+        background-image: url(./backgroundimg/svadba1.jpg);
+        background-image: url(./backgroundimg/svadba2.jpg);
     }10.1%{
-        background-image: url(./img/svadba2.jpg);
+        background-image: url(./backgroundimg/svadba2.jpg);
     }20%{
-        background-image: url(./img/svadba2.jpg);
-        background-image: url(./img/svadba3.jpg);
+        background-image: url(./backgroundimg/svadba2.jpg);
+        background-image: url(./backgroundimg/svadba3.jpg);
     }20.01%{
-        background-image: url(./img/svadba3.jpg);
+        background-image: url(./backgroundimg/svadba3.jpg);
     }30%{
-        background-image: url(./img/svadba3.jpg);
-        background-image: url(./img/svadba4.jpg);
+        background-image: url(./backgroundimg/svadba3.jpg);
+        background-image: url(./backgroundimg/svadba4.jpg);
     }30.01%{
-        background-image: url(./img/svadba4.jpg);
+        background-image: url(./backgroundimg/svadba4.jpg);
     }40%{
-        background-image: url(./img/svadba4.jpg);
-        background-image: url(./img/svadba5.jpg);
+        background-image: url(./backgroundimg/svadba4.jpg);
+        background-image: url(./backgroundimg/svadba5.jpg);
     }40.01%{
-        background-image: url(./img/svadba5.jpg);
+        background-image: url(./backgroundimg/svadba5.jpg);
     }50%{
-        background-image: url(./img/svadba5.jpg);
-        background-image: url(./img/svadba6.jpg);
+        background-image: url(./backgroundimg/svadba5.jpg);
+        background-image: url(./backgroundimg/svadba6.jpg);
     }50.1%{
-        background-image: url(./img/svadba6.jpg);
+        background-image: url(./backgroundimg/svadba6.jpg);
     }60%{
-        background-image: url(./img/svadba6.jpg);
-        background-image: url(./img/svadba7.jpg);
+        background-image: url(./backgroundimg/svadba6.jpg);
+        background-image: url(./backgroundimg/svadba7.jpg);
     }60.01%{
-        background-image: url(./img/svadba7.jpg);
+        background-image: url(./backgroundimg/svadba7.jpg);
     }70%{
-        background-image: url(./img/svadba7.jpg);
-        background-image: url(./img/svadba8.jpg);
+        background-image: url(./backgroundimg/svadba7.jpg);
+        background-image: url(./backgroundimg/svadba8.jpg);
     }70.01%{
-        background-image: url(./img/svadba8.jpg);
+        background-image: url(./backgroundimg/svadba8.jpg);
     }80%{
-        background-image: url(./img/svadba8.jpg);
-        background-image: url(./img/svadba9.jpg);
+        background-image: url(./backgroundimg/svadba8.jpg);
+        background-image: url(./backgroundimg/svadba9.jpg);
     }80.01%{
-        background-image: url(./img/svadba9.jpg);
+        background-image: url(./backgroundimg/svadba9.jpg);
     }90%{
-        background-image: url(./img/svadba9.jpg);
-        background-image: url(./img/svadba10.jpg);
+        background-image: url(./backgroundimg/svadba9.jpg);
+        background-image: url(./backgroundimg/svadba10.jpg);
     }90.01%{
-        background-image: url(./img/svadba10.jpg);
+        background-image: url(./backgroundimg/svadba10.jpg);
     }100%{
-        background-image: url(./img/svadba10.jpg);
-        background-image: url(./img/svadba1.jpg);
+        background-image: url(./backgroundimg/svadba10.jpg);
+        background-image: url(./backgroundimg/svadba1.jpg);
     }
 }
 

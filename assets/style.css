@@ -434,55 +434,55 @@ header #menu-bar{
 
 @keyframes about{
     0%{
-        background-image: url(./img/onama1.jpg);
+        background-image: url(./onama/onama1.jpg);
     }10%{
-        background-image: url(./img/onama1.jpg);
-        background-image: url(./img/onama2.jpg);
+        background-image: url(./onama/onama1.jpg);
+        background-image: url(./onama/onama2.jpg);
     }10.1%{
-        background-image: url(./img/onama2.jpg);
+        background-image: url(./onama/onama2.jpg);
     }20%{
-        background-image: url(./img/onama2.jpg);
-        background-image: url(./img/onama3.jpg);
+        background-image: url(./onama/onama2.jpg);
+        background-image: url(./onama/onama3.jpg);
     }20.01%{
-        background-image: url(./img/onama3.jpg);
+        background-image: url(./onama/onama3.jpg);
     }30%{
-        background-image: url(./img/onama3.jpg);
-        background-image: url(./img/onama4.jpg);
+        background-image: url(./onama/onama3.jpg);
+        background-image: url(./onama/onama4.jpg);
     }30.01%{
-        background-image: url(./img/onama4.jpg);
+        background-image: url(./onama/onama4.jpg);
     }40%{
-        background-image: url(./img/onama4.jpg);
-        background-image: url(./img/onama5.jpg);
+        background-image: url(./onama/onama4.jpg);
+        background-image: url(./onama/onama5.jpg);
     }40.01%{
-        background-image: url(./img/onama5.jpg);
+        background-image: url(./onama/onama5.jpg);
     }50%{
-        background-image: url(./img/onama5.jpg);
-        background-image: url(./img/onama6.jpg);
+        background-image: url(./onama/onama5.jpg);
+        background-image: url(./onama/onama6.jpg);
     }50.1%{
-        background-image: url(./img/onama6.jpg);
+        background-image: url(./onama/onama6.jpg);
     }60%{
-        background-image: url(./img/onama6.jpg);
-        background-image: url(./img/onama7.jpg);
+        background-image: url(./onama/onama6.jpg);
+        background-image: url(./onama/onama7.jpg);
     }60.01%{
-        background-image: url(./img/onama7.jpg);
+        background-image: url(./onama/onama7.jpg);
     }70%{
-        background-image: url(./img/onama7.jpg);
-        background-image: url(./img/onama8.jpg);
+        background-image: url(./onama/onama7.jpg);
+        background-image: url(./onama/onama8.jpg);
     }70.01%{
-        background-image: url(./img/onama8.jpg);
+        background-image: url(./onama/onama8.jpg);
     }80%{
-        background-image: url(./img/onama8.jpg);
-        background-image: url(./img/onama9.jpg);
+        background-image: url(./onama/onama8.jpg);
+        background-image: url(./onama/onama9.jpg);
     }80.01%{
-        background-image: url(./img/onama9.jpg);
+        background-image: url(./onama/onama9.jpg);
     }90%{
-        background-image: url(./img/onama9.jpg);
-        background-image: url(./img/onama10.jpg);
+        background-image: url(./onama/onama9.jpg);
+        background-image: url(./onama/onama10.jpg);
     }90.01%{
-        background-image: url(./img/onama10.jpg);
+        background-image: url(./onama/onama10.jpg);
     }100%{
-        background-image: url(./img/onama10.jpg);
-        background-image: url(./img/onama1.jpg);
+        background-image: url(./onama/onama10.jpg);
+        background-image: url(./onama/onama1.jpg);
     }
 }
 
